@@ -1,5 +1,4 @@
 import time
-from asyncio import timeout
 
 import pytest
 from selene import browser, have, be
